@@ -7,7 +7,6 @@ Publication::Publication()
 }
 
 
-
 Publication::~Publication()
 {
 }

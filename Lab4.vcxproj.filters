@@ -24,61 +24,22 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ResourceList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Resource.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Publication.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Fiction.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Youth.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Periodical.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ResourceFactory.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Patron.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="PatronList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="LibrarySystem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Interact.h">
+    <ClInclude Include="Entity.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="checkOut.h">
+    <ClInclude Include="CheckOutItem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Display.h">
+    <ClInclude Include="Function.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Return.h">
+    <ClInclude Include="HardCopy.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="InteractFactory.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="History.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="FictionHeader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="YouthHeader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="PeriodicalHeader.h">
+    <ClInclude Include="Publication.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -89,61 +50,22 @@
     <ClCompile Include="Lab4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ResourceList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Resource.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Publication.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Fiction.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Youth.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Periodical.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ResourceFactory.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Patron.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PatronList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="LibrarySystem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Interact.cpp">
+    <ClCompile Include="Entity.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="checkOut.cpp">
+    <ClCompile Include="CheckOutItem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Display.cpp">
+    <ClCompile Include="Function.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="InteractFactory.cpp">
+    <ClCompile Include="HardCopy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Return.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="History.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FictionHeader.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="YouthHeader.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PeriodicalHeader.cpp">
+    <ClCompile Include="Publication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

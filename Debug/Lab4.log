@@ -1,2 +1,11 @@
-﻿  InteractFactory.cpp
-  Lab4.vcxproj -> C:\Users\Charlie\Desktop\School\2017 - 18\343\Lab4\Implementation\Lab4\Debug\Lab4.exe
+﻿  stdafx.cpp
+  Publication.cpp
+  LibrarySystem.cpp
+  Lab4.cpp
+c:\users\charlie\desktop\school\2017 - 18\343\lab4\lab4\lab4.cpp(11): error C3861: 'cinTest': identifier not found
+  HardCopy.cpp
+  Function.cpp
+  Entity.cpp
+  CheckOutItem.cpp
+c:\users\charlie\desktop\school\2017 - 18\343\lab4\lab4\checkoutitem.cpp(1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
